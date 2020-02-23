@@ -3,11 +3,6 @@ title: Dungeon World in Italiano
 layout: default
 ---
 
-<div class="alert alert-info">
-    <button type="button" class="close" data-dismiss="alert">×</button>
-    <strong>20 Luglio 2014:</strong> Nuovi 4 capitoli di mostri, sempre grazie ai contributi dei <a href="/crediti">dei nostri traduttori</a>. Ne mancano soltanto due!
-</div> 
-
 Benvenuti alla **traduzione italiana di [Dungeon World][dw]**, il gioco di ruolo di [Adam Koebel][adam] e [Sage Latorra][sage], vincitore del premio **Best Rules** agli ENnies 2013! Dungeon World è derivato dal Mondo dell'Apocalisse di Vincent Baker: Adam e Sage hanno preso il sistema di Baker e l'hanno adattato, superando l'originale in popolarità e successo, a un'estetica fantasy simile a quella proposta dai più popolari giochi di ruolo in commercio.
 
 **Ecco come lo presenta proprio Adam Koebel, coprogettista del gioco:**
@@ -22,7 +17,7 @@ Vi rimando all'[Introduzione](introduzione) per una descrizione più approfondit
 
 Ho deciso di fare questa traduzione per aiutare a diffondere Dungeon World nel mio paese natìo, l'Italia. Il lavoro è indipendente e anteriore a quello effettuato da [Narrattiva](www.narrattiva.it) (con cui non siamo associati) e si pone come alternativa gratuitamente consultabile online. Qui **[il glossario delle differenze](/glossario)** con la loro edizione di Dungeon World.
 
-Considero questo sito una risorsa pubblica, e il testo completo è disponibile su [github][git], come il gioco in lingua originale. Chiunque è libero di mandarmi un'email o un messaggio su Google+ ([visita la nostra community][community]) per segnalarmi un errore o suggerirmi delle traduzioni migliori, e prometto che risponderò e mi metterò in discussione con ciascuno.
+Considero questo sito una risorsa pubblica, e il testo completo è disponibile su [github][git], come il gioco in lingua originale. Chiunque è libero di mandarmi un'email o un messaggio su Facebook ([visita la nostra pagina][fb]) per segnalarmi un errore o suggerirmi delle traduzioni migliori, e prometto che risponderò e mi metterò in discussione con ciascuno.
 
 # Indice Generale
 
@@ -77,7 +72,7 @@ Sono stati tradotti i seguenti capitoli:
 **Nota**: alcuni segni di punteggiatura sono ancora da uniformare, come le virgolette. A lavoro finito verranno sistemati in un controllo tipografico generale.
 
 [dw]: https://www.dungeon-world.com
-[adam]: https://plus.google.com/112484087750169360510
-[sage]: https://plus.google.com/117415966179711277938
-[community]: https://plus.google.com/communities/114321549831158308890
+[adam]: http://www.adam-koebel.com/
+[sage]: https://www.latorra.org/
+[fb]: https://www.facebook.com/dungeonworldit/
 [git]: https://github.com/claudiofreda/Dungeon-World-Italiano
