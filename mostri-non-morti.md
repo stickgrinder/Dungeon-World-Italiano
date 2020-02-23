@@ -199,7 +199,7 @@ Sbattere (d6 danni) 7 PF 1 Armatura
 
 *Medio*
 
-Quelle ossa, quelle ossa, quelle ossa rinsecchite... [Dem bones, dem bones, dem dry bones.](http://en.wikipedia.org/wiki/Dem_Bones)
+Quelle ossa, quelle ossa, quelle ossa rinsecchite... [Dem bones, dem bones, dem dry bones.](https://en.wikipedia.org/wiki/Dem_Bones)
 
 *Istinto*: Assumere una parvenza di vita
 

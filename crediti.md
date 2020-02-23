@@ -44,4 +44,4 @@ Tutti i contenuti disponibili su questo sito sono distribuiti con licenza **[Cre
 [Paride Papadia]: https://plus.google.com/100891656436184215243
 [Pawel Longoni]: https://plus.google.com/115757078838960100730
 [Stefano Franzini]: https://www.facebook.com/stefano.v.franzini
-[cc]: http://creativecommons.org/licenses/by-sa/4.0/deed.it
+[cc]: https://creativecommons.org/licenses/by-sa/4.0/deed.it

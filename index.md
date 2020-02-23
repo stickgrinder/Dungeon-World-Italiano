@@ -76,7 +76,7 @@ Sono stati tradotti i seguenti capitoli:
 
 **Nota**: alcuni segni di punteggiatura sono ancora da uniformare, come le virgolette. A lavoro finito verranno sistemati in un controllo tipografico generale.
 
-[dw]: http://www.dungeon-world.com
+[dw]: https://www.dungeon-world.com
 [adam]: https://plus.google.com/112484087750169360510
 [sage]: https://plus.google.com/117415966179711277938
 [community]: https://plus.google.com/communities/114321549831158308890

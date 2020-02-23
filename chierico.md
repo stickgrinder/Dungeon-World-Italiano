@@ -8,6 +8,6 @@ Portare la gloria degli dèi ai selvaggi non è solo la tua natura, è la tua mi
 
 Mostra al mondo chi è il suo signore.
 
-**[Clicca qui per vedere la scheda del Chierico.](http://bit.ly/1eXEswK)**
+**[Clicca qui per vedere la scheda del Chierico.](https://bit.ly/1eXEswK)**
 
-**[Clicca qui per vedere gli incantesimi del Chierico.](http://bit.ly/MOafVp)**
+**[Clicca qui per vedere gli incantesimi del Chierico.](https://bit.ly/MOafVp)**
