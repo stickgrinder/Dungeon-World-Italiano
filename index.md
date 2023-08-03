@@ -5,7 +5,7 @@ layout: default
 
 <div class="alert alert-info">
     <button type="button" class="close" data-dismiss="alert">×</button>
-    <strong>23 Febbraio 2020:</strong> Rilanciata la <a href="https://locanda.dungeonworld.it">Locanda di Dungeon World</a>, un nuovo spazio per parlare di Dungeon World. 
+    <strong>23 Febbraio 2020:</strong> Rilanciata la <a href="https://forum.locandagdr.it">Locanda di Dungeon World</a>, un nuovo spazio per parlare di Dungeon World. 
 </div> 
 
 <div class="alert alert-info">
