@@ -3,7 +3,7 @@ title: Foreste Oscure
 layout: default
 ---
 
-##Centauro
+## Centauro
 
 ***Orda, Grande, Organizzato, Intelligente***
 
@@ -19,7 +19,7 @@ Arco (d6+2 danni, 1 perforante) 11 PF 1 Armatura
 - Centrare perfettamente il bersaglio
 - Spostarsi con velocità inarrestabile.
 
-##Cinghiale dai denti a sciabola
+## Cinghiale dai denti a sciabola
 
 ***Solitario***
 
@@ -32,7 +32,7 @@ Le zanne del cinghiale dai denti a sciabola squarciano piastre di ferro come fos
 - Squartare qualcuno
 - Lacerare armature e armi
 
-##Driade
+## Driade
 
 ***Solitario, Magico, Intelligente, Sfuggente***
 
@@ -48,7 +48,7 @@ Di una bellezza di  gran lunga maggiore di qualsiasi uomo o donna nati nei reami
 - Fondersi in un albero
 - Scatenare la natura contro i nemici
 
-##Elfo, Milizia
+## Elfo, Milizia
 
 ***Orda, Intelligente, Organizzato***
 
@@ -64,7 +64,7 @@ Spada (m\[2d6\] danni)    3 PF 2 Armatura
 - Attuare antichi progetti
 - Sfruttare i boschi per mettersi in vantaggio
 
-##Elfo, Sommo Arcanista
+## Elfo, Sommo Arcanista
 
 ***Solitario, Magico, Intelligente, Organizzato***
 
@@ -80,7 +80,7 @@ La vera magia elfica non è come gli incantesimi dell’uomo. La magia umana è 
 - Incanalare gli elementi
 
 
-##Erba Assassina
+## Erba Assassina
 
 ***Solitario, Furtivo, Amorfo***
 
@@ -95,7 +95,7 @@ Tra gli animali esiste una netta distinzione tra cacciatore e preda. Basta uno s
 - Diffondersi
 - Attaccare gli incauti
 
-##Galloserpente
+## Galloserpente
 
 ***Gruppo, Piccolo, Accumulatore***
 
@@ -109,7 +109,7 @@ Becco (d8 danni) 6 PF 1 Armatura
 
 - Dare il via ad una lenta trasformazione in pietra.
 
-##Gigante delle Colline
+## Gigante delle Colline
 
 ***Gruppo, Enorme, Intelligente, Organizzato***
 
@@ -123,7 +123,7 @@ Mai visto un ogre? Ecco, più grosso. E anche più scemo e cattivo. Spero che ti
 - Fare qualcosa di stupido
 - Fare tremare la terra
 
-##Grifone
+## Grifone
 
 ***Gruppo, Grande, Organizzato***
 
@@ -139,7 +139,7 @@ A prima vista il grifone si potrebbe scambiare per qualche forma di magia finita
 - Portare in volo un alleato
 - Colpire dall’alto
 
-##Lupo Mannaro
+## Lupo Mannaro
 
 ***Solitario, Intelligente***
 
@@ -155,7 +155,7 @@ Morso (d10+2 danni, 1 perforante) 12 PF 1 Armatura
 - Colpire dall’interno
 - Cacciare come uomo e come bestia
 
-##Lupo Nero
+## Lupo Nero
 
 ***Orda, Organizzato***
 
@@ -168,7 +168,7 @@ Così come i cavalli stanno alle razze civilizzate, i lupi neri stanno ai goblin
 - Portare un cavaliere in battaglia
 - Dare un vantaggio al proprio cavaliere
 
-##Melma del Caos
+## Melma del Caos
 
 ***Solitario, Planare, Terrificante, Amorfo***
 
@@ -183,7 +183,7 @@ La barriera tra Dungeon World e i piani elementali non è, come sarebbe auspicab
 - Causare un cambiamento nell’aspetto o nella sostanza.
 - Creare ponti temporanei fra i piani
 
-##Molosso Instabile
+## Molosso Instabile
 
 ***Gruppo, Piccolo, Magico, Organizzato***
 
@@ -199,7 +199,7 @@ Ora lo vedi, ora non lo vedi. Una volta appartenuti ad un potente stregone e per
 - Richiamare il branco
 - Muoversi a una velocità incredibile
 
-##Ogre/Ogro
+## Ogre/Ogro
 
 ***Gruppo, Grande, Intelligente***
 
@@ -213,7 +213,7 @@ A un certo punto della non così lunga storia della razza umanoide ci fu una sci
 - Infuriarsi all’improvviso
 - Prendere qualcosa con la forza
 
-##Satiro
+## Satiro
 
 ***Gruppo, Sfuggente, Magico, Accumulatore***
 
@@ -229,7 +229,7 @@ Una delle pochissime creature dei boschi antichi che non partirà da subito con 
 - Imporre offerte
 - Fare scherzi con trucchi e illusioni
 
-##Signore delle Aquile
+## Signore delle Aquile
 
 ***Gruppo, Grande, Organizzato, Intelligente***
 
@@ -245,7 +245,7 @@ Alcuni grossi come cavalli, anche più grandi, i re e le regine delle aquile. Il
 - Sollevare qualcuno in aria
 - Appellarsi ad antichi giuramenti
 
-##Spiritello
+## Spiritello
 
 ***Orda, Minuscolo, Furtivo, Magico, Sfuggente, Intelligente***
 
@@ -262,7 +262,7 @@ Li classificherei come elementali, non fosse che “essere molesti” non è un 
 - Confondere i loro sensi
 - Plasmare un’illusione
 
-##Uomo Albero
+## Uomo Albero
 
 ***Gruppo, Enorme, Intelligente, Amorfo***
 

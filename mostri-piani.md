@@ -3,7 +3,7 @@ title: Poteri Planari
 layout: default
 ---
 
-##Angelo
+## Angelo
 
 ***Solitario, Terrificante, Divino, Intelligente, Organizzato***
 
@@ -19,7 +19,7 @@ Spada fiammeggiante (m\[2d10\]+4 danni, ignora armatura) 18 PF 4 Armatura
 - Spingere i mortali ad agire
 - Mettere in luce peccati ed ingiustizie
 
-##Corruttore
+## Corruttore
 
 ***Solitario, Sfuggente, Planare, Accumulatore***
 
@@ -33,7 +33,7 @@ Pugnale segreto (p\[2d8\] danni) 12 PF 0 Armatura
 - Attingere alle profondità dell'inferno per qualcosa da scambiare
 - Sfoggiare potere
 
-##Demone delle Parole
+## Demone delle Parole
 
 ***Solitario, Planare, Magico***
 
@@ -42,7 +42,7 @@ Tutta la magia mortale è solo parole. Gli incantesimi sono preghiere, formule a
 - Lanciare un incantesimo relazionato alla propria parola
 - Procurare la propria parola in abbondanza
 
-##Diavolo delle Catene
+## Diavolo delle Catene
 
 ***Solitario, Planare***
 
@@ -56,7 +56,7 @@ Pensi che la frase: "Che il diavolo ti porti" non significhi nulla? È infelicem
 - Tornare da dove è venuto
 - Torturare con diletto
 
-##Diavolo Spinato
+## Diavolo Spinato
 
 ***Solitario, Grande, Planare, Terrificante***
 
@@ -71,7 +71,7 @@ Il diavolo ha mille forme, forse di più. Alcune comuni, altre uniche. Ogni volt
 - Impalare qualcuno
 - Uccidere incondizionatamente
 
-##Djinn/Genio
+## Djinn/Genio
 
 ***Gruppo, Grande, Magico***
 
@@ -86,7 +86,7 @@ Smetti di sfregare quella lampada, idiota. Non mi interessa cosa hai letto, non 
 - Garantire potere ad un prezzo
 - Evocare le forze della città di ottone
 
-##Elementale Concettuale
+## Elementale Concettuale
 
 ***Solitario, Sfuggente, Planare, Amorfo***
 
@@ -96,7 +96,7 @@ I piani non sono ordinari come il nostro mondo. Nascosti nel caos elementale ci 
 
 - Dimostrare il suo concetto nella sua forma più pura
 
-##Imp/Famiglio infernale
+## Imp/Famiglio infernale
 
 ***Orda, Planare, Intelligente, Organizzato***
 
@@ -109,7 +109,7 @@ Questi piccoli demoni osservatori sono spesso utilizzati da stregoni novellini c
 - Inviare informazioni all'inferno
 - Causare problemi
 
-##Incubo
+## Incubo
 
 ***Orda, Grande, Magico, Terrificante, Planare***
 
@@ -124,7 +124,7 @@ Il branco naque da un patto stipulato in tempi nei quali le Steppe Maledette era
 - Avvolgere un cavaliere in fiamme infernali
 - Farli fuggire
 
-##Inevitabile
+## Inevitabile
 
 ***Gruppo, Grande, Magico, Cauto, Amorfo, Planare***
 
@@ -140,7 +140,7 @@ Tutto finisce. La realtà sanguina dalle ferite del coltello dell'entropia. Al m
 - Imporre le leggi della natura o dell'uomo
 - Lasciar intravedere il destino
 
-##Larva (dannata)
+## Larva (dannata)
 
 ***Orda, Sfuggente, Planare, Intelligente***
 
@@ -154,7 +154,7 @@ Coloro che hanno avuto visioni dei Piani Infernali e sono sopravvissuti con il s
 - Chiedere pietà
 - Attirare l'attenzione del male
 
-##Mastino Infernale
+## Mastino Infernale
 
 ***Gruppo, Planare, Organizzato***
 
@@ -170,7 +170,7 @@ Quando qualcuno viene meno a un accordo, non viene forse per il debitore il mome
 - Sputare fuoco
 - Evocare le forze dell'inferno sul loro bersaglio
 
-##Quasit/Milizia infernale
+## Quasit/Milizia infernale
 
 ***Orda, Planare***
 
@@ -185,7 +185,7 @@ Un imp con un po' di ambizione. Un quasit è una sorta di fante del reame demoni
 - Attaccare con trasporto
 - Infliggere dolore
 
-##Tarrasque/Tarasco
+## Tarrasque/Tarasco
 
 ***Solitario, Enorme, Planare***
 

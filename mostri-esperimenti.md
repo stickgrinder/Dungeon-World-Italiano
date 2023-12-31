@@ -3,7 +3,7 @@ title: Esperimenti Perversi
 layout: default
 ---
 
-##Assimilatore
+## Assimilatore
 
 ***Solitario, Grande, Costrutto***
 
@@ -18,7 +18,7 @@ Siamo d'accordo, la sperimentazione magica è una scienza complessa. Per ogni ma
 - Corrodere qualcosa
 - Succhiare nutrimento
 
-##Bulette
+## Bulette
 
 ***Solitario, Enorme, Costrutto***
 
@@ -34,7 +34,7 @@ Un bravo guardiano di carovane sa comprendere tempestivamente i richiami degli e
 - Sbucare dal suolo
 - Inghiottire in un solo boccone
 
-##Chimera
+## Chimera
 
 ***Solitario, Grande, Costrutto***
 
@@ -48,7 +48,7 @@ La celebre e annoverata chimera è una creatura modificata. Dai manoscritti dell
 - Travolgere
 - Avvelenare
 
-##Derro
+## Derro
 
 ***Orda, Sfuggente, Intelligente, Organizzato***
 
@@ -63,7 +63,7 @@ Piccone (d6 danni) 3 PF 2 Armatura
 - Invadere una mente con pensieri estranei
 - Controllare mentalmente una bestia
 
-##Ettin
+## Ettin
 
 ***Solitario, Grande, Costrutto***
 
@@ -78,7 +78,7 @@ Cosa potrebbe essere migliore di uno stupido gigante delle colline infuriato? Un
 - Attaccare due nemici contemporaneamente
 - Difendere il suo creatore
 
-##Girallon
+## Girallon
 
 ***Solitario, Enorme***
 
@@ -94,7 +94,7 @@ I rullo dei tamburi della giungla richiama la creatura. Sulla pietra sacrificale
 - Cacciare gli intrusi dalla giungla
 - Scagliare qualcuno
 
-##Golem di Carne
+## Golem di Carne
 
 ***Orda***
 
@@ -109,7 +109,7 @@ Pezzi e piccole parti rubati nella notte. Cimiteri furtivamente distrutti, e sta
 - Eseguire gli ordini
 - Staccare una parte del corpo
 
-##Golem di Ferro
+## Golem di Ferro
 
 ***Gruppo, Grande, Costrutto***
 
@@ -124,7 +124,7 @@ Il ferro è un elemento basilare dell'arte magica e lo sanno bene i costruttore 
 - Eseguire gli ordini implacabilmente
 - Utilizzare uno speciale strumento o adattamento, incorporato 
 
-##Kraken
+## Kraken
 
 ***Solitario, Enorme***
 
@@ -139,7 +139,7 @@ Tentacoli giganti (d10+5 danni) 20 PF 2 Armatura
 - Trascinare una persona o un'imbarcazione verso una tomba d'acqua
 - Avvolgerli tra i suoi tentacoli
 
-##Manticora
+## Manticora
 
 ***Solitario, Grande, Costrutto***
 
@@ -154,7 +154,7 @@ Se la chimera è il primo passo lungo un cammino oscuro, la manticora è la port
 - Avvelenarli
 - Fare qualcosa a brandelli
 
-##Orsogufo
+## Orsogufo
 
 ***Solitario, Costrutto***
 
@@ -166,7 +166,7 @@ Corpo di orso. Piume di gufo. Becco, artigli e un eccellente visione notturna. C
 
 - Colpire dalle tenebre
 
-##Pegaso
+## Pegaso
 
 ***Gruppo, Costrutto***
 
@@ -180,7 +180,7 @@ Non pensare adesso che qualsiasi creatura nata in modo non naturale sia un orrib
 - Trasportare un cavaliere in volo
 - Aiutare il proprio cavaliere
 
-##Rugginofago
+## Rugginofago
 
 ***Gruppo, Costrutto***
 
@@ -195,7 +195,7 @@ Una creatura dall'aspetto davvero originale. Assomiglia un po' ad un grillo ross
 - Trasformare     il metallo in ruggine
 - Trarre forza dal consumo di metallo
 
-##Saccheggiatore Etereo
+## Saccheggiatore Etereo
 
 ***Solitario, Sfuggente, Planare***
 
@@ -211,7 +211,7 @@ Capita di smarrire gli oggetti: un calzino, un cucchiaio d'argento, le ossa dell
 - Ritirarsi nel piano Etereo
 - Usare un oggetto preso dalla sua tana
 
-##Xorn
+## Xorn
 
 ***Solitario, Grande, Costrutto***
 
