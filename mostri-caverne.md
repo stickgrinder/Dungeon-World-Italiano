@@ -19,7 +19,7 @@ Avere un carapace duro come una corazza di piastre ed enormi mandibole devastant
 - Uscire dalla terra
 - Spruzzare acido, corrodendo carne e metallo
 
-##Cubo Gelatinoso
+## Cubo Gelatinoso
 
 ***Solitario, Grande, Furtivo, Amorfo***
 
@@ -35,7 +35,7 @@ Quanti avventurieri hanno avuto come ultimo pensiero: “strano, questo tunnel s
 - Dissolvere
 
 
-##Elementale della Terra
+## Elementale della Terra
 
 ***Solitario, Enorme***
 
@@ -50,7 +50,7 @@ Ogni cosa in questo mondo ha uno spirito, così dice il nostro sciamano. Sassi, 
 - Usare la terra come arma
 - Fondersi con la pietra
 
-##Gargoyle
+## Gargoyle
 
 ***Orda, Furtivo, Accumulatore***
 
@@ -66,7 +66,7 @@ Ogni cosa in questo mondo ha uno spirito, così dice il nostro sciamano. Sassi, 
 - Sollevare in volo
 - Mimetizzarsi fra le strutture di pietra
 
-##Goblin
+## Goblin
 
 ***Orda, Piccolo, Intelligente, Organizzato***
 
@@ -80,7 +80,7 @@ Nessuno sa da dove arrivino queste creature. Gli elfi dicono che sia colpa dei n
 - Chiamare altri goblin
 - Ritirarsi e tornare con (molti) altri alleati
 
-##Goblin, Orcantatore
+## Goblin, Orcantatore
 
 ***Solitario, Piccolo, Magico, Intelligente, Organizzato***
 
@@ -94,7 +94,7 @@ Oh cielo, chi gli ha insegnato la magia? *Istinto*: Attingere potere oltre la lo
 - Diffondere il caos magico
 - Usare gli altri goblin come scudi
 
-##Goliath
+## Goliath
 
 ***Gruppo, Enorme, Organizzato, Intelligente***
 
@@ -107,7 +107,7 @@ Dimorano sotto terra perché non appartengono più alla superficie. Una razza im
 - Scuotere la terra
 - Ritirarsi, solo per tornare più forte
 
-##Guerriero Nanico
+## Guerriero Nanico
 
 ***Orda, Organizzato***
 
@@ -120,7 +120,7 @@ Per secoli, l’umanità credeva che i nani fossero tutti maschi fatti delle ste
 - Respingerli
 - Chiamare rinforzi
 
-##Larve della Putrefazione
+## Larve della Putrefazione
 
 ***Orda, Minuscolo***
 
@@ -136,7 +136,7 @@ Vivono sotto tua pelle. O nei tuoi organi. O nei tuoi bulbi oculari. Crescono l�
 - Deporre uova
 - Fuoriuscire da una creatura infettata
 
-##Mantoscuro
+## Mantoscuro
 
 ***Solitario, Furtivo***
 
@@ -150,7 +150,7 @@ Non metterti quel mantello, Gareth. Non farlo. Non sai chi può averlo indossato
 
 - Avvolgere gli ignari
 
-##Otyugh
+## Otyugh
 
 ***Solitario, Grande***
 
@@ -165,7 +165,7 @@ Il richiamo d’amore dell’otyugh è un orribile grido assordante che sembra u
 - Infettare qualcuno con la febbre
 - Scagliare qualcuno o qualcosa
 
-##Ratto delle caverne
+## Ratto delle caverne
 ***Orda, Piccolo***
 
 Rosicchiare (d6 danni, 1 perforante) 7 PF 1 Armatura
@@ -177,7 +177,7 @@ Chi non ha mai visto un ratto? Questo essere è qualcosa di simile, ma è grosso
 - Sovrastare col numero
 - Sventrare qualcosa (o qualcuno)
 
-##Roper
+## Roper
 
 ***Solitario, Grande, Furtivo, Intelligente***
 
@@ -193,7 +193,7 @@ La casualità dell’evoluzione ha creato un predatore sotterraneo molto astuto.
 - Disarmare un nemico
 - Masticare qualcuno
 
-##Scarabeo di Fuoco
+## Scarabeo di Fuoco
 
 ***Orda, Piccolo***
 
@@ -209,7 +209,7 @@ Fiamme (d6 danni, ignora armatura) 3 PF 3 Armatura
 - Uscire dal terreno
 - Spruzzare getti di fiamme
 
-##Signore dei Ragni
+## Signore dei Ragni
 
 ***Solitario, Grande, Sfuggente, Intelligente***
 
@@ -224,7 +224,7 @@ Anche i ragni hanno dèi, a cui sussurrano dalle loro tele, con le piccole zampe
 - Avviluppare nella ragnatela
 - Mettere in atto un piano
 
-##Strangolatore
+## Strangolatore
 
 ***Solitario, Furtivo, Intelligente***
 
@@ -239,7 +239,7 @@ Alcuni dicono che queste creature siano i discendenti della famiglia di un mago 
 - Stritolare qualcuno fino a che non ha più aria in corpo.
 - Scagliare una creatura bloccata
 
-##Troglodita
+## Troglodita
 
 ***Gruppo, Organizzato***
 
@@ -252,7 +252,7 @@ Da tempo dimenticati, i nostri sopravvissuti antenati, dimorano in caverne nelle
 - Assaltare e ritirarsi
 - Usare vecchie armi abbandonate o la magia
 
-##Verme Iena
+## Verme Iena
 
 ***Orda, Piccolo***
 
@@ -266,7 +266,7 @@ Gli dèi che crearono queste creature stavano facendo qualche folle tiro mancino
 
 - Paralizzare con un tocco
 
-##Verme Purpureo
+## Verme Purpureo
 
 ***Solitario, Enorme***
 

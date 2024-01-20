@@ -3,7 +3,7 @@ title: Abitanti delle Paludi
 layout: default
 ---
 
-##Anguilla Ignea
+## Anguilla Ignea
 
 ***Orda, Minuscolo***
 
@@ -18,7 +18,7 @@ Queste strane creature non sono più grandi o più sveglie dei loro parenti comu
 - Dare fuoco a qualcosa o qualcuno (anche sott’acqua)
 - Consumare una preda in fiamme
 
-##Bakunawa
+## Bakunawa
 
 ***Solitario, Grande, Intelligente, Devastante, Possente***
 
@@ -34,7 +34,7 @@ La sorella della Testuggine Draconica è una possente signora dei serpenti. Nove
 - Scagliarsi contro la luce
 - Divorare
 
-##Basilisco
+## Basilisco
 
 ***Solitario, Accumulatore***
 
@@ -47,7 +47,7 @@ Morso (d10 danni) 12 PF 2 Armatura
 - Tramutare carne in pietra con lo sguardo
 - Ritirarsi in un labirinto di pietra
 
-##Coboldo
+## Coboldo
 
 ***Orda, Piccolo, Furtivo, Intelligente, Organizzato***
 
@@ -63,7 +63,7 @@ I più fanno di tutta l’erba un fascio: insieme a orchi, bugbear e goblin incl
 - Chiamare draghi o i loro alleati draconici
 - Ritirarsi e riorganizzarsi
 
-##Coccodrilo Gigante
+## Coccodrilo Gigante
 
 ***Gruppo, Grande***
 
@@ -79,7 +79,7 @@ Morso (d8+3 danni) 10 PF 2 Armatura
 - Fuggire in acqua
 - Trattenere qualcosa saldamente fra le fauci
 
-##Coutal
+## Coutal
 
 ***Solitario, Intelligente, Sfuggente***
 
@@ -95,7 +95,7 @@ Gli dei ci hanno dato il Coutal come se volessero sfidare il degrado e la sporci
 - Evocare forze divine per purificare
 - Offrire informazioni in cambio di un servzio.
 
-##Cucciolo di Drago
+## Cucciolo di Drago
 
 ***Solitario, Piccolo, Intelligente, Cauto, Accumulatore***
 
@@ -111,7 +111,7 @@ Cosa? Credevi che fossero tutti lunghi un chilometro? Che non potessero essere p
 - Richiamare i propri familiari
 - Richiedere giuramenti di schiavitù
 
-##Doppelgänger
+## Doppelgänger
 
 ***Solitario, Sfuggente, Intelligente***
 
@@ -127,7 +127,7 @@ La loro forma naturale, semmai riuscissi a vederla, è orrenda. Come una creaura
 - Usare l’identità di qualcun’altro a proprio vantaggio
 - Rovinare la reputazione a qualcuno
 
-##Ekek
+## Ekek
 
 ***Orda***
 
@@ -142,7 +142,7 @@ Brutti, rugosi uomini uccello. Forse, in qualche era antica, erano una razza di 
 - Attaccare dall’alto
 - Eseguire gli ordini di una creatura più potente
 
-##Errante delle Paludi
+## Errante delle Paludi
 
 ***Solitario, Grande, Magico***
 
@@ -173,7 +173,7 @@ Cerca una lanterna galleggiando nell'oscurità, viaggiatore smarrito nella palud
 - Guidare qualcuno fuori strada
 - Aprire un sentiero verso il peggior posto possibile
 
-##Idra
+## Idra
 
 ***Solitario, Grande***
 
@@ -188,7 +188,7 @@ Puoi immaginarla simile a un drago, ma potrebbe non avere ali. Molte teste, nove
 - Attaccare più nemici contemporaneamente
 - Rigenerare parti del corpo (specialmente una testa)
 
-##Medusa
+## Medusa
 
 ***Solitario, Sfuggente, Intelligente, Accumulatore***
 
@@ -204,7 +204,7 @@ Figlie di un madre dai capelli serpentini, che le diede alla luce in tempi antic
 - Attirare lo sguardo di qualcuno
 - Mostrare una terribile bellezza nascosta
 
-##Protoplasma Nero
+## Protoplasma Nero
 
 ***Solitario, Amorfo***
 
@@ -219,7 +219,7 @@ Come si fa a uccidere un mucchio di poltiglia? Un grosso mucchio scivoloso di po
 - Corrodere metallo, carne o legno
 - Colare in un posto pericoloso: cibo, armature o stomaco
 
-##Sahuagin
+## Sahuagin
 
 ***Orda, Intelligente***
 
@@ -235,7 +235,7 @@ La forma e le fattezze degli uomini sposate agli appetiti e agli infiniti denti 
 - Scagliare una lancia avvelenata
 - Entrare in frenesia alla vista del sangue
 
-##Sauropode
+## Sauropode
 
 ***Gruppo, Enorme, Cauto***
 
@@ -251,7 +251,7 @@ Mastodontiche bestie, vivono in posti dimenticati da lungo tempo dalle razze pen
 - Abbattere qualcosa
 - Rilasciare un muggito assordante
 
-##Testugguine Draconica
+## Testugguine Draconica
 
 ***Solitario, Enorme, Cauto***
 
@@ -267,7 +267,7 @@ La Bakunawa ha un fratello. Mentre una è collerica e avida di oro, l’altro è
 - Scaraventarsi con la propria massa
 - Distruggere strutture e palazzi
 
-##Troll
+## Troll
 
 ***Solitario, Grande***
 
@@ -282,7 +282,7 @@ Alto. Molto alto. Due metri e mezzo ed oltre quando sono giovani o deboli. Ed an
 - Annullare gli effetti di un attacco (se non causato da una debolezza, a tua discrezione)
 - Scagliare qualcusa o qualcuno
 
-##Uomo Lucertola
+## Uomo Lucertola
 
 ***Gruppo, Furtivo, Intelligente, Organizzato***
 
@@ -297,7 +297,7 @@ Uno stregone errante mi ha detto che gli uomini lucertola sono più antichi di n
 - Attaccare una vittima ignara
 - Assaltare i nemici, sia in acqua che sulla terraferma
 
-##Uomo Rana
+## Uomo Rana
 
 ***Orda, Piccolo, Intelligente***
 

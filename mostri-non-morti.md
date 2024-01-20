@@ -3,7 +3,7 @@ title: Legioni dei Non-Morti
 layout: default
 ---
 
-##Abominio
+## Abominio
 
 ***Solitario, Grande, Costrutto, Terrificante***
 
@@ -18,7 +18,7 @@ Cadaveri cuciti ad altri cadaveri compongono la maggior parte di queste goffe ma
 - Lacerare la carne
 - Riversare budella putride
 
-##Ala Notturna
+## Ala Notturna
 
 ***Orda, Furtivo***
 
@@ -33,7 +33,7 @@ Gli studiosi delle arti necromantiche ti diranno che l’appellativo “non mort
 - Attaccare dal cielo notturno
 - Volare via con la preda
 
-##Banshee
+## Banshee
 
 ***Solitario, Magico, Intelligente***
 
@@ -49,7 +49,7 @@ Sfuggi ad un incontro con uno di questi spiriti vendicativi semplicemente assord
 - Scatenare un suono spacca-cranio
 - Sparire nelle nebbie
 
-##Divoratore
+## Divoratore
 
 ***Solitario, Grande, Intelligente, Accumulatore***
 
@@ -62,7 +62,7 @@ La maggior parte della gente sa che i non morti si cibano di carne. Il calore, i
 - Divorare o intrappolare un’anima morente
 - Contrattare per la restituzione di un’anima
 
-##Drago d’ossa
+## Drago d’ossa
 
 ***Solitario, Enorme***
 
@@ -74,7 +74,7 @@ Se questa creatura sia veramente non morta o sia un golem assemblato da un mater
 
 - Attaccare inesorabilmente
 
-##Draugr
+## Draugr
 
 ***Orda, Organizzato***
 
@@ -89,7 +89,7 @@ Nelle Marche del Nord, gli uomini e le donne raccontano nelle loro sale di legno
 - Congelare la carne
 - Richiamare i morti indegni
 
-##Fantasma
+## Fantasma
 
 ***Solitario, Sfuggente, Terrificante***
 
@@ -105,7 +105,7 @@ Ogni cultura racconta la storia nello stesso modo. Vivi, ami o odi, vinci o perd
 - Infestare un luogo importante
 - Offrire informazioni dall’aldilà, ad un costo
 
-##Ghoul
+## Ghoul
 
 ***Gruppo***
 
@@ -118,7 +118,7 @@ Fame. Fame fame fame. Fame disperata che contorce le budella vuote. Artigli affi
 - Mordere via una parte del corpo
 - Ottenere i ricordi dei loro pasti
 
-##Lich
+## Lich
 
 ***Solitario, Magico, Intelligente, Cauto, Accumulatore, Costrutto***
 
@@ -132,7 +132,7 @@ Forza Magica (d10+3 danni, ignora armatura) 16 PF 5 Armatura
 - Mettere in atto un rituale o una grande piano
 - Rivelare un piano o una preparazione già completata.
 
-##Lupo
+## Lupo
 
 ***Spettrale Orda, Organizzato, Intelligente***
 
@@ -149,7 +149,7 @@ Come l’ala notturna, il lupo spettrale non è una creatura generata nel nostro
 - Circondare una preda
 - Convocare il branco
 
-##Mohrg
+## Mohrg
 
 ***Gruppo***
 
@@ -162,7 +162,7 @@ Non la si può fare franca con un omicidio. Non del tutto. Potresti eludere la l
 - Infuriarsi
 - Aggiungere viscere alla sua collezione
 
-##Mummia
+## Mummia
 
 ***Solitario, Divino, Accumulatore***
 
@@ -176,7 +176,7 @@ Ci sono culture che venerano i morti. Non li seppelliscono nella fredda terra e 
 - Avvolgerli
 - Risorgere
 
-##Ombra
+## Ombra
 
 ***Orda, Grande, Magico, Costrutto***
 
@@ -191,7 +191,7 @@ Noi invochiamo gli elementi. Noi richiamiamo il fuoco, che sempre arde. Noi evoc
 - Spegnere la luce
 - Materializzare un’altra ombra dai morti
 
-##Scheletro
+## Scheletro
 
 ***Orda***
 
@@ -207,7 +207,7 @@ Quelle ossa, quelle ossa, quelle ossa rinsecchite... [Dem bones, dem bones, dem 
 - Spegnere il calore della vita
 - Ricostruirsi dalle ossa sparse
 
-##Sigben
+## Sigben
 
 ***Orda, Grande, Costrutto***
 
@@ -222,7 +222,7 @@ Coda-frusta (d6+1 danni) 11 PF 2 Armatura
 - Avvelenarli
 - Eseguire la volontà di un vampiro
 
-##Spettro
+## Spettro
 
 ***Solitario, Accumulatore***
 
@@ -237,7 +237,7 @@ Ci sono persone che la Morte stessa non riesce a separare dai luoghi che amavano
 - Tormentare una creatura
 - Portare alla vita l’ambiente circostante
 
-##Vampiro
+## Vampiro
 
 ***Gruppo, Furtivo, Organizzato, Intelligente***
 
@@ -253,7 +253,7 @@ Noi li temiamo, perchè ci attirano. Così simili a noi, o come noi vorremmo ess
 - Nutrirsi del suo sangue
 - Ritirarsi per pianificare di nuovo
 
-##Zombi
+## Zombi
 
 ***Orda***
 

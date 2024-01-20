@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-##Formian, Aguzzino
+## Formian, Aguzzino
 
 ***Gruppo, Organizzato, Intelligente***
 
@@ -19,7 +19,7 @@ Servono due braccia per dominare un impero: uno per reggere lo scettro e l'altro
 - Guidare i lavoratori in battaglia
 - Pianificare gli spostamenti di interi alveari
 
-##Formian, Centurione
+## Formian, Centurione
 
 ***Orda, Intelligente, Organizzato***
 
@@ -36,7 +36,7 @@ Che sia sotto forma di legionario, o parte dell'esercito formian o come pretoria
 - Richiedere rinforzi
 - Dare la vita per l'Alveare
 
-##Formian, Operaio
+## Formian, Operaio
 
 ***Orda, Organizzato, Cauto***
 
@@ -52,7 +52,7 @@ Si dice di loro, e con ottime ragioni, che queste creature (come tutti gli inset
 - Creare valore per l'alveare
 - Assimilare
 
-##Formian, Regina
+## Formian, Regina
 
 ***Solitario, Enorme, Organizzato, Intelligente, Accumulatore***
 
@@ -68,7 +68,7 @@ Nel cuore di ogni alveare, qualsivoglia siano le dimensioni o il tipo, troverete
 - Guidare la mutazione delle larve
 - Organizzare e comandare
 
-##Gnoll, Capobranco
+## Gnoll, Capobranco
 
 ***Solitario, Intelligente, Organizzato***
 
@@ -83,7 +83,7 @@ Ogni branco ha il suo capo. Più grosso, forse; sarebbe la maniera più semplice
 - Pretendere obbedienza
 - Guidare il branco nella caccia
 
-##Gnoll, Emissario
+## Gnoll, Emissario
 
 ***Solitario, Divino, Intelligente, Organizzato***
 
@@ -99,7 +99,7 @@ Spaventoso? Vero. Ogni segugio ha un padrone che lo tiene al guinzaglio. Questi 
 - Trasmettere l'influenza demoniaca
 - Condurre il branco alla furia
 
-##Gnoll, Segugio
+## Gnoll, Segugio
 
 ***Gruppo, Organizzato, Intelligente***
 
@@ -113,7 +113,7 @@ Una volta fiutato il tuo sangue, non hai scampo. Non senza l'intervento degli de
 - Seguire la preda ostinatamente
 - Colpire nel momento di massima vulnerabilità
 
-##Orco, Berserker
+## Orco, Berserker
 
 ***Solitario, Enorme, Divino, Intelligente, Organizzato***
 
@@ -128,7 +128,7 @@ Marchiato nel blasfemo rituale noto come "L'Unzione del Sangue della Notte", alc
 - Entrare in frenesia
 - Scatenare il caos
 
-##Orco, Cacciatore di Ombre
+## Orco, Cacciatore di Ombre
 
 ***Solitario, Furtivo, Magico, Intelligente***
 
@@ -144,7 +144,7 @@ Non tutti gli attacchi degli orchi sono torce, urla e schiavitù. Tra coloro che
 - Sparire nell'ombra
 - Occultarsi nell'oscurità
 
-##Orco, Capoguerra
+## Orco, Capoguerra
 
 ***Solitario, Intelligente, Organizzato***
 
@@ -161,7 +161,7 @@ Ci sono capi e ci sono i condottieri tra le tribù degli orchi. Ci sono coloro c
 - Mostrare potere
 - Scatenare l'ira delle tribù
 
-##Orco, Distruttore
+## Orco, Distruttore
 
 ***Solitario, Enorme***
 
@@ -174,7 +174,7 @@ Martello (d10+3 danni, ignora armatura) 16 PF 0 Armatura
 - Distruggere armature e protezioni
 - Abbattere i potenti
 
-##Orco, Orbo
+## Orco, Orbo
 
 ***Gruppo, Divino, Magico, Intelligente, Organizzato***
 
@@ -190,7 +190,7 @@ Nel nome di Colui che ha la Vista Divisa e attraverso il Primo Sacrificio di Car
 - Prendere un occhio
 - Sacrificare per ottenere maggior potere
 
-##Orco, Razziatore
+## Orco, Razziatore
 
 ***Orda, Intelligente, Organizzato***
 
@@ -203,7 +203,7 @@ L'orda orchesca é un insieme di tribù selvagge, assetate di sangue e cariche d
 - Combattere con ferocia
 - Gioire della distruzione
 
-##Orco, Schiavista
+## Orco, Schiavista
 
 ***Orda, Furtivo, Intelligente, Organizzato***
 
@@ -217,7 +217,7 @@ Vele rosse sui mari del Sud. Vele rosse e navi di osso, vecchio legno e ferro. L
 - Catturare con una rete
 - Drogare i prigionieri
 
-##Orco, Sciamano
+## Orco, Sciamano
 
 ***Solitario, Intelligente, Organizzato***
 
@@ -234,7 +234,7 @@ Gli orchi sono una razza antica quanto le altre. Seppellivano le ossa e elevano 
 - Concedere la velocità dell'acqua
 - Concedere la chiarezza dell'aria
 
-##Tritone, Evocamaree
+## Tritone, Evocamaree
 
 ***Gruppo, Divino, Magico, Intelligente***
 
@@ -250,7 +250,7 @@ In parte preti, in parte paria fra i propri simili, gli evocamaree parlano con l
 - Comandare le bestie dei mari
 - Rivelare i dettami divini
 
-##Tritone, Nobile
+## Tritone, Nobile
 
 ***Gruppo, Organizzato, Intelligente***
 
@@ -265,7 +265,7 @@ I tritoni che comandano le proprie casate furono scelti, si racconta, all'alba d
 - Incitare i tritoni alla guerra
 - Chiamare i rinforzi
 
-##Tritone, Spia
+## Tritone, Spia
 
 ***Solitario, Furtivo, Intelligente, Organizzato***
 
@@ -280,7 +280,7 @@ Un villaggio di pescatori ne catturò uno nelle sue reti una volta. Parte uomo, 
 - Scoprire i segreti
 - Colpire i punti deboli
 
-##Tritone, Sub-Mariner
+## Tritone, Sub-Mariner
 
 ***Gruppo, Organizzato, Intelligente***
 
