@@ -5,11 +5,11 @@ layout: default
 
 ## Accolito
 
-“Non possono essere tutti Sommi Sacerdoti, dicevano. Non tutti possono brandire la Lancia Bianca, dicevano. Pulisci il pavimento, mi hanno ordinato. Al Dio Supermo Cthonic non piacciono certo i pavimenti sporchi, no? Dicevano che sarebbe stata illuminazione e magia. Bah. Sono ginocchia sbucciate e mani scrpolate. Avrei dovuto scegliere di fare il chierico."  
+“Non si può essere tutti il Sommo Sacerdote, dicevano. Non tutti possono brandire la Lancia Bianca, dicevano. Pulisci il pavimento, mi ordinavano. Al Dio Supermo Cthonico non piacciono certo i pavimenti sporchi, no? Mi avevano promesso saggezza e magia. Bah, invece ho ottenuto soltanto ginocchia sbucciate e mani raggrinzite dal sapone. Se solo avessi scelto di fare il chierico."  
 *Istinto*: Servire con dedizione
 
 - Seguire il dogma
-- Offrire ricompensa eterna per le azioni mondane
+- Offrire ricompense eterne per le azioni mondane
 
 ## Avventuriero
 
@@ -21,7 +21,7 @@ Spada (d6 danni) 3 PF 1 Armatura
 
 **Qualità speciali**: Entusiasmo inesauribile
 
-"Feccia della peggior specie, ecco cosa sono. Un gruppo di uomini e donne corazzati che arrivano nel paese come niente fosse, brandendo ciò che, ad ogni buon conto, è abbastanza potere magico e profano da raderla al suolo. Portano con sé sacchi e sacchi di bottino, ancora sporchi di sangue del povero disgraziato che hanno dovuto uccidere per ottenerlo. Un fiasco economico annunciato, se chiedi a me. Da sovvertire l'intero sistema. Vagabondi dalla lama facile, pericolosi e imprevedibili. Oh, aspetta, sei un avventuriero? Ritiro tutto quanto."  
+"Feccia della peggior specie, ecco cosa sono. Un gruppo di uomini e donne corazzati che arrivano in paese come niente fosse, brandendo ciò che, ad ogni buon conto, è abbastanza potere magico e terreno da raderla al suolo. Portano con sé sacchi e sacchi di bottino, ancora sporchi di sangue del povero disgraziato che hanno dovuto uccidere per ottenerlo. Un fiasco economico annunciato, se chiedi a me. Da sovvertire l'intero sistema. Vagabondi dalla lama facile, pericolosi e imprevedibili. Oh, aspetta, sei un avventuriero? Ritiro tutto quanto."  
 *Istinto*: Andare all'avventura o morire provandoci
 
 - Vai a fare una commissione stupida
@@ -36,11 +36,11 @@ Daga (d6 danni) 3 PF 1 Armatura
 
 *Medio, Lungo*
 
-Disperazione è la parola d'ordine del banditismo. In tempi duri, cos'altro rimane se non metter mano alle armi e unirsi a un clan di uomini e donne malvagi? Rapine sulle strade maestre, bracconaggio, truffe, imbrogli ed efferati omicidi, ma insomma... tutti dobbiamo mangiare, quindi come biasimarli? D'altro canto, alcuni cuori sono malvagi di natura, e chi può dire se la disperazione non sia la scusa per appagare i più bassi istinti?  
+"Disperazione" è la parola d'ordine del banditismo. In tempi duri, cos'altro rimane se non metter mano alle armi e unirsi a un clan di sudici uomini e donne? Banditismo, bracconaggio, truffe, imbrogli ed efferati omicidi, ma insomma... tutti dobbiamo mangiare, quindi come biasimarli? D'altro canto, alcuni cuori sono malvagi di natura, e chi può dire se la disperazione non sia la scusa per appagare i più bassi istinti? E comunque, o questo, o morir di fame.  
 *Istinto*: Derubare
 
 - Rubare qualcosa
-- Chiedere tributo
+- Esigere un tributo
 
 ## Re dei Banditi
 
@@ -186,7 +186,7 @@ Lancia (d6 danni) 3 PF 1 Armatura
 
 *Medio, Lungo*
 
-Per un bifolco con le braccia muscolose, a volte la scelta è tra fare il soldato o fare il bandito. È portare i colori, indossare armature della taglia sbaglata e marciare verso l'ignoto con un migliaio di altri uomini e donne spaventati, arruolati per combattere le guerre del nostro tempo. Potrebbero nascondersi nei boschi magari, vivendo di alci bracconate e nascondendosi alla guardia del re. Meglio rischiare la vita al servizio di una causa. Unire coraggiosamente le proprie sorti ai propri simili e sperare di uscire dall'altra parte ancora interi. Inoltre, i nobili hanno bisogno di uomini e donne forti. Sai come si dice, mezza dozzina di soldati vale più di mille ragioni.  
+Per un bifolco robusto e vigoroso, a volte la scelta è tra fare il soldato o fare il bandito. Si tratta di portare i colori, indossare un'armatura della taglia sbaglata e marciare verso l'ignoto con un migliaio di altri uomini e donne spaventati, arruolati per combattere le guerre del nostro tempo. Potrebbero piuttosto nascondersi nei boschi, vivendo di alci bracconate e nascondendosi dalle guardie. Meglio rischiare la vita al servizio di una causa. Unire coraggiosamente le proprie sorti ai propri simili e sperare di uscire dall'altra parte ancora interi. Inoltre, i nobili hanno bisogno di uomini e donne forti. Sai come si dice, mezza dozzina di soldati vale più di mille ragioni.  
 *Istinto*: Combattere
 
 - Marciare in battaglia
@@ -197,12 +197,12 @@ Per un bifolco con le braccia muscolose, a volte la scelta è tra fare il soldat
 Amata dai re ma sempre guardata con sospetto. Misteriosa, riservata e affascinante, la vita di una spia è, agli occhi di un comune cittadino, piena di romanticismo e intrighi. È un coltello nel buio e un paio di occhi vigili. Una spia può essere il tuo migliore amico, il tuo amante o quel vecchio che vedi ogni giorno al mercato. Non si sa mai. Diavolo, forse proprio tu sei una spia: dicono che esiste una magia in grado di cambiare la mente delle persone senza che loro se ne accorgano. Come facciamo a fidarci di te?  
 *Istinto*: Infiltrarsi
 
-- Riportare la verità
+- Fare accuratamente rapporto
 - Fare il doppio gioco
 
 ## Inventore
 
-Si dice che se vedi un inventore per strada e non gli offri un sorso di birra o qualcosa da mangiare, ti lancerà appresso una maledizione di sfortuna. Gli inventori sono gente strana. Questi curiosi individui spesso percorrono le strade tra una città e l'altra con i loro carri colmi di cianfrusaglie e i loro fidati muli. Con un cane rognoso e sempre una storia da raccontare. A volte missive anche, se sei fortunato e vivi in ​​un posto dove la Posta della Regina non arriva. Se sei gentile, forse ti venderanno una rosa che non appassisce mai o un orologio che rintocca col suono di una risata fatata. Altrimenti saranno solo scorbutici rigattieri. E chi può dirlo?  
+Si dice che se vedi un inventore per strada e non gli offri un sorso di birra o qualcosa da mangiare, ti lancerà appresso una maledizione di sfortuna. Gli inventori sono gente strana. Questi curiosi individui spesso percorrono le strade tra una città e l'altra con i loro carri di cianfrusaglie e i loro fidati muli, con un cane rognoso e sempre una storia da raccontare. A volte portano anche missive, se sei fortunato e vivi in ​​un posto dove la Posta della Regina non arriva. Se sei gentile, forse ti venderanno una rosa che non appassisce mai o un orologio che rintocca col suono di una risata fatata. O forse sono solo scorbutici rigattieri. E chi può dirlo?  
 *Istinto*: Creare
 
 - Offrire un insolito congegno, a un prezzo
