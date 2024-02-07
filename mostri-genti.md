@@ -42,21 +42,6 @@ Daga (d6 danni) 3 PF 1 Armatura
 - Rubare qualcosa
 - Esigere un tributo
 
-## Re dei banditi
-
-***Solitario, Intelligente, Organizzato***
-
-Fidato coltello (m\[2d10\] danni) 12 PF 1 Armatura
-
-*Medio*
-
-Meglio regnare all'inferno che servire in paradiso.  
-*Istinto*: Comandare
-
-- Avanzare richieste
-- Estorcere
-- Rovesciare il potere
-
 ## Buffone
 
 Alla corte del Re c'è solo una persona a cui è concesso dire la verità. La pura, schietta e onesta verità su qualsiasi cosa. Il buffone potrà nasconderla tra campanellini, capriole e cerone sul viso, ma chi altro può dire al Re come stanno le cose? Di un buffone ti puoi fidare, si suol dire, specialmente quando ti ha reso paonazzo e vorresti annegarlo in una pozza di fango.  
@@ -64,53 +49,6 @@ Alla corte del Re c'è solo una persona a cui è concesso dire la verità. La pu
 
 - Denunciare le ingiustizie
 - Fare uno scherzo
-
-## Guardia
-
-***Gruppo, Intelligente, Organizzato***
-
-Lancia (d8 danni) 6 PF 1 Armatura
-
-*Medio, Lungo*
-
-Nobile protettore o semplice ubriacone, spesso a loro fa poca differenza. Sebbene non siano nobili cavalieri, le guardie cittadine possono andar fiere della loro antica professione. Questi rappresentanti dell'ordine pubblico indossano spesso i colori del loro signore (quando si vedono sotto lo sporco) e, se il signore è ricco abbastanza, potrebbero persino avere armi decenti e armature calzanti a pennello. Quelli sono i più fortunati. Tuttavia, qualcuno deve stare di vedetta alle porte quando i cavalieri neri vengon avvistati nei boschi. Troppi di noi devono la vita a queste brave persone: vedi di ricordartelo la prossima volta che uno di loro, ubriaco, insulta tua madre, ok?  
-*Istinto*: Eseguire gli ordini
-
-- Fare rispettare la legge
-- Trarre profitto
-
-## Ladro mezzuomo
-
-***Solitario, Piccolo, Intelligente, Furtivo, Subdolo***
-
-Pugnale (p\[2d8\] danni) 12 PF 1 Armatura
-
-*Medio*
-
-Ora, sarebbe sciocco trarre conclusioni sulle persone solo perché hanno talento in una cosa o nell'altra. D'altro canto, pane al pane e vino al vino, no? O forse tra i mezzuomini, solo quelli dal cuore buono, dolce e gentile amano rimanere nelle loro casette tra le colline erbose e non sono i tipi che ti capita di trovare negli squallidi bassifondi e nelle taverne delle regioni degli umani. Facile che questi siano lì per svuotarti il borsello, e magari perché li hai chiamati "mezzuomini" tanto per cominciare. Non è un titolo che tutti prendono così sul ridere. Oppure ti prendono per i fondelli, fingendo di essere bambini bisognosi, e i tuoi occhi arroganti non si accorgono di niente finchè non è troppo tardi. Beh, poco importa. Si sono già dileguati coi tuoi soldi prima che tu ti sia reso conto di essertela cercata.
-*Istinto*: Vivere nel lusso ottenuto indebitamente
-
-- Rubare
-- Simulare amicizia
-
-## Fattucchiere
-
-***Magico***
-
-Non tutti coloro che esercitano le arti arcane sono maghi avventurieri, negromanti da mausoleo o stregoni di antica stirpe. Alcuni sono vecchietti o vecchiette  abbastanza svegli da aver scoperto uno o due trucchi. Sì, forse essere venuto a conoscenza di certe cose li ha resi un po' matti, ma se devi spezzare una maledizione, o provare il tuo amore, un mago errante potrebbe darti più che una mano. Sempre tu riesca a trovare la sua macilenta capanna nella palude e pagare il prezzo che chiede.  
-*Istinto*: Apprendere
-
-- Lanciare l'incantesimo giusto (o quasi), a un prezzo
-- Prendere accordi che vanno oltre le sue possibilità
-
-## Sommo Sacerdote
-
-Rispettati da tutti coloro che li guardano, i Sommi Sacerdoti e le Badesse di Dungeon World sono trattati con grande reverenza. Sia che rendano omaggio a Ur-thuu-hak, Dio delle Spade, o sussurrino preghiere silenziose a Namiah, preziosa Figlia della Pace, sanno una o due cosette che io e te non sapremo mai. Gli Dei parlano loro come un ambulante potrebbe parlare con noi al mercato. Per questo, per portare con sé i segreti e i perchè delle cose, ci scansiamo e facciamo strada quando passano nelle loro vesti scintillanti.  
-*Istinto*: Dirigere
-
-- Stabilire la legge divina
-- Rivelare i segreti divini
-- Commissionare imprese divine
 
 ## Cacciatore
 
@@ -140,6 +78,52 @@ Quale giovane non si aggrappa alla ringhiera durante la possente giostra, acceca
 - Prendere una posizione morale
 - Guidare i soldati in battaglia
 
+## Fattucchiere
+
+***Magico***
+
+Non tutti coloro che esercitano le arti arcane sono maghi avventurieri, negromanti da mausoleo o stregoni di antica stirpe. Alcuni sono vecchietti o vecchiette  abbastanza svegli da aver scoperto uno o due trucchi. Sì, forse essere venuto a conoscenza di certe cose li ha resi un po' matti, ma se devi spezzare una maledizione, o provare il tuo amore, un mago errante potrebbe darti più che una mano. Sempre tu riesca a trovare la sua macilenta capanna nella palude e pagare il prezzo che chiede.  
+*Istinto*: Apprendere
+
+- Lanciare l'incantesimo giusto (o quasi), a un prezzo
+- Prendere accordi che vanno oltre le sue possibilità
+
+## Guardia
+
+***Gruppo, Intelligente, Organizzato***
+
+Lancia (d8 danni) 6 PF 1 Armatura
+
+*Medio, Lungo*
+
+Nobile protettore o semplice ubriacone, spesso a loro fa poca differenza. Sebbene non siano nobili cavalieri, le guardie cittadine possono andar fiere della loro antica professione. Questi rappresentanti dell'ordine pubblico indossano spesso i colori del loro signore (quando si vedono sotto lo sporco) e, se il signore è ricco abbastanza, potrebbero persino avere armi decenti e armature calzanti a pennello. Quelli sono i più fortunati. Tuttavia, qualcuno deve stare di vedetta alle porte quando i cavalieri neri vengon avvistati nei boschi. Troppi di noi devono la vita a queste brave persone: vedi di ricordartelo la prossima volta che uno di loro, ubriaco, insulta tua madre, ok?  
+*Istinto*: Eseguire gli ordini
+
+- Fare rispettare la legge
+- Trarre profitto
+
+## Inventore
+
+Si dice che se vedi un inventore per strada e non gli offri un sorso di birra o qualcosa da mangiare, ti lancerà appresso una maledizione di sfortuna. Gli inventori sono gente strana. Questi curiosi individui spesso percorrono le strade tra una città e l'altra con i loro carri di cianfrusaglie e i loro fidati muli, con un cane rognoso e sempre una storia da raccontare. A volte portano anche missive, se sei fortunato e vivi in ​​un posto dove la Posta della Regina non arriva. Se sei gentile, forse ti venderanno una rosa che non appassisce mai o un orologio che rintocca col suono di una risata fatata. O forse sono solo scorbutici rigattieri. E chi può dirlo?  
+*Istinto*: Creare
+
+- Offrire un insolito congegno, a un prezzo
+- Intrecciare racconti di grandi pericoli e ricompense in terre lontane
+
+## Ladro mezzuomo
+
+***Solitario, Piccolo, Intelligente, Furtivo, Subdolo***
+
+Pugnale (p\[2d8\] danni) 12 PF 1 Armatura
+
+*Medio*
+
+Ora, sarebbe sciocco trarre conclusioni sulle persone solo perché hanno talento in una cosa o nell'altra. D'altro canto, pane al pane e vino al vino, no? O forse tra i mezzuomini, solo quelli dal cuore buono, dolce e gentile amano rimanere nelle loro casette tra le colline erbose e non sono i tipi che ti capita di trovare negli squallidi bassifondi e nelle taverne delle regioni degli umani. Facile che questi siano lì per svuotarti il borsello, e magari perché li hai chiamati "mezzuomini" tanto per cominciare. Non è un titolo che tutti prendono così sul ridere. Oppure ti prendono per i fondelli, fingendo di essere bambini bisognosi, e i tuoi occhi arroganti non si accorgono di niente finchè non è troppo tardi. Beh, poco importa. Si sono già dileguati coi tuoi soldi prima che tu ti sia reso conto di essertela cercata.
+*Istinto*: Vivere nel lusso ottenuto indebitamente
+
+- Rubare
+- Simulare amicizia
+
 ## Mercante
 
 “Pertiche da tre metri! Correte a prendere le vostre pertiche da tre metri! Torce, luminose e calde. Anche i muli: testardi ma tirati su come si deve. Ti serve un sacco di iuta, vero? Proprio qui! Vieni a prendere le tue pertiche da tre metri!  
@@ -156,13 +140,20 @@ Che siano dove sono per volere divino? È per questo che possono trasmettere le 
 - Impartire un ordine
 - Offrire una ricompensa
 
-## Villico
+## Re dei banditi
 
-Coperti di fango, calpestati e in fondo alla grande catena dell'esistenza, siamo tutti sulle spalle di coloro che coltivano il cibo nelle fattorie. Alcuni villici se la cavano meglio di altri, ma nessuno di loro vedrà mai una moneta d’oro nella vita. Sogneranno la notte di come un giorno, in qualche maniera, combatteranno un drago e salveranno una principessa. Nnon comportarti come se non fossi stato uno di loro prima di aver perso quel poco di buon senso che avevi, avventuriero.  
-*Istinto*: Tirare avanti
+***Solitario, Intelligente, Organizzato***
 
-- Chiedere aiuto
-- Offrire gratitudine e modeste ricompense
+Fidato coltello (m\[2d10\] danni) 12 PF 1 Armatura
+
+*Medio*
+
+Meglio regnare all'inferno che servire in paradiso.  
+*Istinto*: Comandare
+
+- Avanzare richieste
+- Estorcere
+- Rovesciare il potere
 
 ## Ribelle
 
@@ -192,6 +183,15 @@ Per un bifolco robusto e vigoroso, a volte la scelta è tra fare il soldato o fa
 - Marciare in battaglia
 - Combattere come un sol'uomo
 
+## Sommo Sacerdote
+
+Rispettati da tutti coloro che li guardano, i Sommi Sacerdoti e le Badesse di Dungeon World sono trattati con grande reverenza. Sia che rendano omaggio a Ur-thuu-hak, Dio delle Spade, o sussurrino preghiere silenziose a Namiah, preziosa Figlia della Pace, sanno una o due cosette che io e te non sapremo mai. Gli Dei parlano loro come un ambulante potrebbe parlare con noi al mercato. Per questo, per portare con sé i segreti e i perchè delle cose, ci scansiamo e facciamo strada quando passano nelle loro vesti scintillanti.  
+*Istinto*: Dirigere
+
+- Stabilire la legge divina
+- Rivelare i segreti divini
+- Commissionare imprese divine
+
 ## Spia
 
 Amata dai re ma sempre guardata con sospetto. Misteriosa, riservata e affascinante, la vita di una spia è, agli occhi di un comune cittadino, piena di romanticismo e intrighi. È un coltello nel buio e un paio di occhi vigili. Una spia può essere il tuo migliore amico, il tuo amante o quel vecchio che vedi ogni giorno al mercato. Non si sa mai. Diavolo, forse proprio tu sei una spia: dicono che esiste una magia in grado di cambiare la mente delle persone senza che loro se ne accorgano. Come facciamo a fidarci di te?  
@@ -200,10 +200,10 @@ Amata dai re ma sempre guardata con sospetto. Misteriosa, riservata e affascinan
 - Fare accuratamente rapporto
 - Fare il doppio gioco
 
-## Inventore
+## Villico
 
-Si dice che se vedi un inventore per strada e non gli offri un sorso di birra o qualcosa da mangiare, ti lancerà appresso una maledizione di sfortuna. Gli inventori sono gente strana. Questi curiosi individui spesso percorrono le strade tra una città e l'altra con i loro carri di cianfrusaglie e i loro fidati muli, con un cane rognoso e sempre una storia da raccontare. A volte portano anche missive, se sei fortunato e vivi in ​​un posto dove la Posta della Regina non arriva. Se sei gentile, forse ti venderanno una rosa che non appassisce mai o un orologio che rintocca col suono di una risata fatata. O forse sono solo scorbutici rigattieri. E chi può dirlo?  
-*Istinto*: Creare
+Coperti di fango, calpestati e in fondo alla grande catena dell'esistenza, siamo tutti sulle spalle di coloro che coltivano il cibo nelle fattorie. Alcuni villici se la cavano meglio di altri, ma nessuno di loro vedrà mai una moneta d’oro nella vita. Sogneranno la notte di come un giorno, in qualche maniera, combatteranno un drago e salveranno una principessa. Nnon comportarti come se non fossi stato uno di loro prima di aver perso quel poco di buon senso che avevi, avventuriero.  
+*Istinto*: Tirare avanti
 
-- Offrire un insolito congegno, a un prezzo
-- Intrecciare racconti di grandi pericoli e ricompense in terre lontane
+- Chiedere aiuto
+- Offrire gratitudine e modeste ricompense
