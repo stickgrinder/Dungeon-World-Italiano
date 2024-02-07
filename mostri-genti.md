@@ -42,7 +42,7 @@ Daga (d6 danni) 3 PF 1 Armatura
 - Rubare qualcosa
 - Esigere un tributo
 
-## Re dei Banditi
+## Re dei banditi
 
 ***Solitario, Intelligente, Organizzato***
 
@@ -59,10 +59,10 @@ Meglio regnare all'inferno che servire in paradiso.
 
 ## Buffone
 
-Alla corte del Re c'è solo una persona autorizzata a dire la verità. La pura, schietta e onesta verità su qualsiasi cosa. Il buffone potrà nasconderla tra campanellini, capriole e cerone sul viso, ma chi altro può dire al Re cosa succede veramente? Di un buffone ti puoi fidare, si suol dire. Specialmente quando ti ha reso paonazzo e vorresti annegarlo in una pozza di fango.  
+Alla corte del Re c'è solo una persona a cui è concesso dire la verità. La pura, schietta e onesta verità su qualsiasi cosa. Il buffone potrà nasconderla tra campanellini, capriole e cerone sul viso, ma chi altro può dire al Re come stanno le cose? Di un buffone ti puoi fidare, si suol dire, specialmente quando ti ha reso paonazzo e vorresti annegarlo in una pozza di fango.  
 *Istinto*: Deridere
 
-- Denunciare l'ingiustizia
+- Denunciare le ingiustizie
 - Fare uno scherzo
 
 ## Guardia
@@ -73,13 +73,13 @@ Lancia (d8 danni) 6 PF 1 Armatura
 
 *Medio, Lungo*
 
-Nobile protettore o semplice ubriacone, spesso a loro fa poca differenza. Sebbene non siano nobili cavalieri, le guardie cittadine possono andar fiere della loro antica professione. Questi rappresentanti dell'ordine pubblico indossano spesso i colori del loro signore (quando si possono vedere sotto lo sporco) e, se il signore è ricco abbastanza, potrebbero persino avere un'arma decente e un'armatura che calza a pennello. Quelli sono i più fortunati. Tuttavia, qualcuno deve stare di vedetta alle porte quando i Cavalieri Neri si aggirano nei boschi. Troppi di noi devono la vita a queste brave persone - vedi di ricordartelo la prossima volta che uno di loro, ubriaco, insulta tua madre, ok?  
+Nobile protettore o semplice ubriacone, spesso a loro fa poca differenza. Sebbene non siano nobili cavalieri, le guardie cittadine possono andar fiere della loro antica professione. Questi rappresentanti dell'ordine pubblico indossano spesso i colori del loro signore (quando si vedono sotto lo sporco) e, se il signore è ricco abbastanza, potrebbero persino avere armi decenti e armature calzanti a pennello. Quelli sono i più fortunati. Tuttavia, qualcuno deve stare di vedetta alle porte quando i cavalieri neri vengon avvistati nei boschi. Troppi di noi devono la vita a queste brave persone: vedi di ricordartelo la prossima volta che uno di loro, ubriaco, insulta tua madre, ok?  
 *Istinto*: Eseguire gli ordini
 
 - Fare rispettare la legge
 - Trarre profitto
 
-## Ladro Mezzuomo
+## Ladro mezzuomo
 
 ***Solitario, Piccolo, Intelligente, Furtivo, Subdolo***
 
@@ -87,25 +87,25 @@ Pugnale (p\[2d8\] danni) 12 PF 1 Armatura
 
 *Medio*
 
-Ora, sarebbe sciocco trarre conclusioni sulle persone solo perché hanno talento in una cosa o nell'altra. D'altro canto, pane al pane e vino al vino, no? O forse tra i mezzuomini, solo quelli dal cuore buono, dolce e gentile amano rimanere nelle loro casette tra le colline erbose e non sono i tipi che ti capita di trovare negli squallidi bassifondi e nelle taverne delle regioni degli umani. Facile che questi siano lì per svuotarti il borsello, e magari perché li hai chiamati "mezzuomini" tanto per cominciare. Non è che la debbano prendere tutti sul ridere. Oppure ti prendono per i fondelli, fingendo di essere un bambino bisognoso che chied l'elemosina - e i tuoi occhi arroganti non si accorgono di niente finchè non è troppo tardi. Beh, poco importa. Si sono già dileguati coi tuoi soldi prima che tu ti sia reso conto di essertela cercata.
+Ora, sarebbe sciocco trarre conclusioni sulle persone solo perché hanno talento in una cosa o nell'altra. D'altro canto, pane al pane e vino al vino, no? O forse tra i mezzuomini, solo quelli dal cuore buono, dolce e gentile amano rimanere nelle loro casette tra le colline erbose e non sono i tipi che ti capita di trovare negli squallidi bassifondi e nelle taverne delle regioni degli umani. Facile che questi siano lì per svuotarti il borsello, e magari perché li hai chiamati "mezzuomini" tanto per cominciare. Non è un titolo che tutti prendono così sul ridere. Oppure ti prendono per i fondelli, fingendo di essere bambini bisognosi, e i tuoi occhi arroganti non si accorgono di niente finchè non è troppo tardi. Beh, poco importa. Si sono già dileguati coi tuoi soldi prima che tu ti sia reso conto di essertela cercata.
 *Istinto*: Vivere nel lusso ottenuto indebitamente
 
 - Rubare
-- Metti l'apparenza dell'amicizia
+- Simulare amicizia
 
-## Mago di campagna
+## Fattucchiere
 
 ***Magico***
 
-Non tutti coloro che esercitano le arti arcane sono maghi avventurieri. Né negromanti nei mausolei o stregoni di antica stirpe. Alcuni sono semplicemente uomini e donne anziani, abbastanza svegli da aver scoperto uno o due trucchi. Si, forse essere venuto a conoscenza di certe cose li ha resi un po' matti, ma se hai una maledizione da spezzare o un amore da conquistare, un mago campagnolo potrebbe darti più che una mano, se riesci a trovare la sua macilenta capanna nella palude e pagare il prezzo che chiede.  
+Non tutti coloro che esercitano le arti arcane sono maghi avventurieri, negromanti da mausoleo o stregoni di antica stirpe. Alcuni sono vecchietti o vecchiette  abbastanza svegli da aver scoperto uno o due trucchi. Sì, forse essere venuto a conoscenza di certe cose li ha resi un po' matti, ma se devi spezzare una maledizione, o provare il tuo amore, un mago errante potrebbe darti più che una mano. Sempre tu riesca a trovare la sua macilenta capanna nella palude e pagare il prezzo che chiede.  
 *Istinto*: Apprendere
 
 - Lanciare l'incantesimo giusto (o quasi), a un prezzo
-- Concludere affari fuori portata
+- Prendere accordi che vanno oltre le sue possibilità
 
 ## Sommo Sacerdote
 
-Rispettati da tutti coloro che li guardano, i Sommi Sacerdoti e le Badesse di Dungeon World sono trattati con grande reverenza. Sia che rendano omaggio a Ur-thuu-hak, Dio delle Spade, o sussurrino preghiere silenziose a Namiah, preziosa Figlia della Pace, sanno una o due cosette che io e te non sapremo mai. Gli Dei parlano loro come un ambulante potrebbe parlare con noi al mercato. Per questo, per portare con sé i segreti e i perchè delle cose, ci scansiamo e lasciamo strada quando passano nelle loro vesti scintillanti.  
+Rispettati da tutti coloro che li guardano, i Sommi Sacerdoti e le Badesse di Dungeon World sono trattati con grande reverenza. Sia che rendano omaggio a Ur-thuu-hak, Dio delle Spade, o sussurrino preghiere silenziose a Namiah, preziosa Figlia della Pace, sanno una o due cosette che io e te non sapremo mai. Gli Dei parlano loro come un ambulante potrebbe parlare con noi al mercato. Per questo, per portare con sé i segreti e i perchè delle cose, ci scansiamo e facciamo strada quando passano nelle loro vesti scintillanti.  
 *Istinto*: Dirigere
 
 - Stabilire la legge divina
@@ -134,7 +134,7 @@ Spada (m\[2d10\] danni) 12 PF 4 Armatura
 
 *Medio*
 
-Quale giovane non si aggrappa alla ringhiera durante la possente giostra, accecato dai riflessi del sole sulle loro armature scintillanti, desiderando di poter esser lui a vestirsi d'acciaio e cavalcare per compiacere il re e la regina? Quale giovane contadino che ha solo un pezzo di pane e una scrofa zoppa non vorrebbe barattare tutto con una lancia e uno sgargiante stendardo? Un cavaliere è tante cose: un guerriero sacro, una spada giurata, a volte anche un cattivo, ma un cavaliere non può fare a meno di essere un simbolo per tutti coloro che lo guardano. Un cavaliere significa qualcosa.  
+Quale giovane non si aggrappa alla ringhiera durante la possente giostra, accecato dai riflessi del sole sulle loro armature scintillanti, desiderando di poter esser lui a vestirsi d'acciaio e cavalcare per compiacere il re e la regina? Quale giovane villico che ha solo un pezzo di pane e una scrofa zoppa non vorrebbe barattare tutto con una lancia e uno sgargiante stendardo? Un cavaliere è tante cose: un guerriero sacro, una spada giurata, a volte anche un cattivo, ma un cavaliere non può fare a meno di essere un simbolo per tutti coloro che lo guardano. Un cavaliere significa qualcosa.  
 *Istinto*: Rispettare un codice
 
 - Prendere una posizione morale
@@ -142,7 +142,7 @@ Quale giovane non si aggrappa alla ringhiera durante la possente giostra, acceca
 
 ## Mercante
 
-“Dieci piedi di pali. Prendi i tuoi pali da dieci piedi, qui. Torce, luminose e calde. Anche i muli: testardi ma immacolati. Ti serve una confezione di biancheria, vero? Proprio qui! Vieni a prendere i tuoi pali da dieci piedi!  
+“Pertiche da tre metri! Correte a prendere le vostre pertiche da tre metri! Torce, luminose e calde. Anche i muli: testardi ma tirati su come si deve. Ti serve un sacco di iuta, vero? Proprio qui! Vieni a prendere le tue pertiche da tre metri!  
 *Istinto*: Trarre profitto
 
 - Proporre un'iniziativa imprenditoriale
@@ -150,16 +150,16 @@ Quale giovane non si aggrappa alla ringhiera durante la possente giostra, acceca
 
 ## Nobile
 
-Che siano al loro posto per potere divino? È per questo che riescono a trasmettere ricchezza e potere per diritto di nascita? Qualche trucco o incantesimo nel sangue, magari? Il contadino piega il ginocchio, gratta il suolo e si ammazza di fatica e il nobile indossa gli abiti eleganti del suo posto e, dicono, tutti abbiamo i nostri fardelli da portare. A me pare che alcuni di noi abbiano pesi di pietra e altri li abbiano d'oro. Dura, la vita.  
+Che siano dove sono per volere divino? È per questo che possono trasmettere le ricchezze e il potere per diritto di nascita, forse. Qualche trucco o incantesimo nel sangue, magari? Il villico si inginocchia, tira a campare e si ammazza di fatica e il nobile indossa gli abiti eleganti del suo posto e dicono che tutti portiamo dei fardelli. A me pare che alcuni di noi abbiano pesi di pietra e altri li abbiano d'oro. Dura, la vita.  
 *Istinto*: Governare
 
 - Impartire un ordine
 - Offrire una ricompensa
 
-## Contadino
+## Villico
 
-Coperti di fango, calpestati in fondo alla grande catena dell'esistenza, siamo tutti sulle spalle di coloro che coltivano il nostro cibo nelle fattorie. Alcuni contadini se la cavano meglio di altri, ma nessuno di loro vedrà mai una moneta d’oro nella vita. Sogneranno la notte di come un giorno, in qualche maniera, combatteranno un drago e salveranno una principessa. Non comportarti come se non lo fossi prima di perdere quel poco di buon senso che hai, avventuriero.  
-*Istinto*: Cavarsela
+Coperti di fango, calpestati e in fondo alla grande catena dell'esistenza, siamo tutti sulle spalle di coloro che coltivano il cibo nelle fattorie. Alcuni villici se la cavano meglio di altri, ma nessuno di loro vedrà mai una moneta d’oro nella vita. Sogneranno la notte di come un giorno, in qualche maniera, combatteranno un drago e salveranno una principessa. Nnon comportarti come se non fossi stato uno di loro prima di aver perso quel poco di buon senso che avevi, avventuriero.  
+*Istinto*: Tirare avanti
 
 - Chiedere aiuto
 - Offrire gratitudine e modeste ricompense
@@ -172,13 +172,13 @@ Ascia (d6 danni) 3 PF 1 Armatura
 
 *Medio*
 
-Nelle campagne sarebbero chiamati fuorilegge, scacciati o uccisi. La città però, è piena di posti in cui nascondersi. Seminterrati umidi dove memorizzare mappe, pianificare e complottare contro un sistema corrotto. Come i topi, rosicchiano l’ordine, per soppiantarlo di nuovo o semplicemente per eroderlo del tutto. Vaporoso è il confine tra cambiamento e caos: alcuni ribelli percorrono quella linea sottile e altri vogliono solo vedere tutto bruciare. Un travestimento, un coltello nel buio o una torcia lanciata al momento giusto sono tutti strumenti del ribelle. Il marchio ardente dell'anarchia è una paura comune tra i nobili di Dungeon World. Questi uomini e donne ne sono il motivo.  
+Nelle campagne sarebbero chiamati fuorilegge e scacciati, o uccisi. La città però è piena di posti in cui nascondersi: seminterrati umidi dove memorizzare mappe, pianificare e complottare contro un sistema corrotto. Come i topi, rosicchiano l’ordine pian piano, per soppiantarlo con uno nuovo o soltanto per eroderlo completamente. Vaporoso è il confine tra cambiamento e caos: alcuni ribelli percorrono quella linea sottile e altri vogliono solo vedere tutto bruciare. Un travestimento, un coltello nel buio o una torcia lanciata al momento giusto sono tutti strumenti del ribelle. Il marchio ardente dell'anarchia è una paura comune tra i nobili di Dungeon World. Questi uomini e donne ne sono il motivo.  
 *Istinto*: Sovvertire l'ordine
 
 - Morire per una causa
 - Ispirare gli altri
 
-## Soldati
+## Soldato
 
 ***Orda, Intelligente, Organizzato***
 
