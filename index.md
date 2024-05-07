@@ -26,7 +26,7 @@ Considero questo sito una risorsa pubblica, e il testo completo è disponibile s
 
 # Indice Generale
 
-La traduzione è **quasi completa**, mancano solo due capitoli relativi alle ambientazioni mostruose (Genti del Reame e Profondità della Terra).
+La traduzione è **quasi completa**, manca solo un capitolo relativo alle ambientazioni mostruose (Profondità della Terra).
 
 Oltre alle schede delle classi, sono disponibili le schede delle **[mosse base](pdf/mosse.pdf)** e del **[riassunto del gm](pdf/gm.pdf)**, adesso aggiornate alla nostra traduzione!
 
