@@ -5,7 +5,7 @@ layout: default
 
 <div class="alert alert-info">
     <button type="button" class="close" data-dismiss="alert">×</button>
-    <strong>7 Maggio 2024:</strong> Aggiunta traduzione della sezione <a href="https://dungeonworld.it/mostri-genti">Genti del Reame</a>. 
+    <strong>7 Maggio 2024:</strong> Aggiunta traduzione della sezione <a href="/mostri-genti">Genti del Reame</a>. 
 </div> 
 
 Benvenuti alla **traduzione italiana di [Dungeon World][dw]**, il gioco di ruolo di [Adam Koebel][adam] e [Sage Latorra][sage], vincitore del premio **Best Rules** agli ENnies 2013! Dungeon World è derivato dal Mondo dell'Apocalisse di Vincent Baker: Adam e Sage hanno preso il sistema di Baker e l'hanno adattato, superando l'originale in popolarità e successo, a un'estetica fantasy simile a quella proposta dai più popolari giochi di ruolo in commercio.
@@ -67,7 +67,8 @@ Sono stati tradotti i seguenti capitoli:
 		<li><a href="mostri-caverne">Abitanti delle Caverne</a></li>
 		<li><a href="mostri-paludi">Abitanti delle Paludi</a></li>
 		<li><a href="mostri-esperimenti">Esperimenti Perversi</a></li>
-		<li><a href="mostri-foreste">Foreste Oscure</a></li>
+		<li><a href="mostri-foreste">Foreste Intricate</a></li>
+		<li><a href="mostri-genti">Genti del Reame</a></li>
 		<li><a href="mostri-non-morti">Legioni dei Non Morti</a></li>
 		<li><a href="mostri-orde">Orde Fameliche</a></li>
 		<li><a href="mostri-piani">Esperimenti Perversi</a></li>
