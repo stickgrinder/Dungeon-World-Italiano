@@ -19,6 +19,37 @@ Nelle profondità sotto la superficie del mondo, in mari d'acqua dolce inviolati
 - Rivolgere i servitori contro di loro
 - Mettere in atto un piano
 
+## Chuul
+
+***Gruppo, Grande, Cauto***
+
+Artigli (d8+1 danni, 3 perforanti) 10 PF 4 Armatura
+
+*Medio, Lungo, Devastante*
+
+**Qualità Speciali**: Anfibio
+
+Il tuo peggior incubo da impepata di cozze che prende vita. Una sorta di mezzo-uomo, mezzo-gambero, maledetto da un'intelligenza primordiale e benedetto da un paio di chele affilate come rasoi. Cose strane si nascondono nelle pozze maleodoranti, in caverne che era meglio rimanessero inesplorate, e il chuul è una di queste. Se ne avvisti uno, il meglio a cui puoi ambire è una mazza pesante per frantumargli il guscio e magari un po' di burro all'aglio. Mmmm. *Istinto*: Fare a fette
+
+- Tagliare qualcosa in due con le possenti chele
+- Ritirarsi in acqua
+
+## Drago
+
+***Solitario, Enorme, Terrificante, Cauto, Accumulatore***
+
+Morso (b\[2d12\]+5 danni, 4 perforanti) 16 PF 5 Armatura
+
+*Lungo, Devastante*
+
+**Qualità Speciali**: Sangue elementale, Ali
+
+Sono le cose più grandi e terribili che questo mondo avrà mai da offrire. *Istinto*: Dominare
+
+- Piegare un elemento alla propria volontà
+- Esigere un tributo
+- Agire con sdegno
+
 ## Drago dell'apocalisse
 
 ***Solitario, Enorme, Magico, Divino***
@@ -34,36 +65,6 @@ La fine di ogni cosa avverrà in un rogo di alberi, terra e dell'aria stessa. Ar
 - Mettere in moto un disastro
 - Soffiare gli elementi
 - Agire con perfetta preveggenza
-
-## Progenie del caos
-
-***Solitario, Amorfo***
-
-Tocco del Caos (d10 danni) 19 PF 1 Armatura
-
-*Medio, Lungo*
-
-**Qualità Speciali**: Forma caotica
-
-Scacciato dalla città, un cultista trova rifugio in borghi e villaggi. Scovato anche lì, fugge verso le colline e incide la sua devozione sulle pareti delle caverne. Trovato di nuovo, viene cacciato con coltelli e torce nelle profondità, strisciando sempre più in basso fino a quando, nei luoghi più profondi, si scopre perduto. Dapprima dimentica il suo nome. Poi dimentica la sua forma. I suoi dei del caos, i più amati, lo benedicono donandogliene una nuova. *Istinto*: Minare l'ordine costituito
-
-- Riscrivere la realtà
-- Liberare il caos dalla sua prigione
-
-## Chuul
-
-***Gruppo, Grande, Cauto***
-
-Artigli (d8+1 danni, 3 perforanti) 10 PF 4 Armatura
-
-*Medio, Lungo, Devastante*
-
-**Qualità Speciali**: Anfibio
-
-Il tuo peggior incubo da impepata di cozze che prende vita. Una sorta di mezzo-uomo, mezzo-gambero, maledetto da un'intelligenza primordiale e benedetto da un paio di chele affilate come rasoi. Cose strane si nascondono nelle pozze maleodoranti, in caverne che era meglio rimanessero inesplorate, e il chuul è una di queste. Se ne avvisti uno, il meglio a cui puoi ambire è una mazza pesante per frantumargli il guscio e magari un po' di burro all'aglio. Mmmm. *Istinto*: Fare a fette
-
-- Tagliare qualcosa in due con le possenti chele
-- Ritirarsi in acqua
 
 ## Elfo delle profondità, assassino
 
@@ -107,34 +108,6 @@ Gli spiriti degli alberi e la Signora della Luce Solare sono molto, molto lontan
 - Intessere incantesimi di odio e malizia
 - Radunare gli elfi delle profondità
 - Tramandare conoscenze divine
-
-## Drago
-
-***Solitario, Enorme, Terrificante, Cauto, Accumulatore***
-
-Morso (b\[2d12\]+5 danni, 4 perforanti) 16 PF 5 Armatura
-
-*Lungo, Devastante*
-
-**Qualità Speciali**: Sangue elementale, Ali
-
-Sono le cose più grandi e terribili che questo mondo avrà mai da offrire. *Istinto*: Dominare
-
-- Piegare un elemento alla propria volontà
-- Esigere un tributo
-- Agire con sdegno
-
-## Sventratore grigio
-
-***Solitario, Grande***
-
-Artigli laceranti (d10+3 danni, 3 perforanti) 16 PF 1 Armatura
-
-*Medio, Lungo, Possente*
-
-Già da solo, lo sventratore è una forza di totale distruzione. Enorme e coriaceo, con una fila di denti infrangibili e artigli a complemento, lo sventratore sembra non avere gioia più grande che fare a pezzi le cose. Pietra, carne o acciaio, poco importa. Tuttavia, gli sventratori grigi raramente vanno in giro da soli. Si legano ad altre creature. Alcuni alla nascita, altri quando sono già completamente sviluppati, ma uno sventratore seguirà il padrone a cui si è legato ovunque egli vada, portandogli succulente offerte e proteggendolo mentre dorme. Trovare uno sventratore senza padrone ti farà diventare ricco, se sopravvivi per vendertelo. *Istinto*: Servire
-
-- Fare a pezzi qualcosa
 
 ## Magmin
 
@@ -181,6 +154,21 @@ Tra gli esseri più ambiziosi e territoriali che si conoscano, i naga molto rara
 - Usare antiche magie
 - Proporre un affare o un patto
 
+## Progenie del caos
+
+***Solitario, Amorfo***
+
+Tocco del Caos (d10 danni) 19 PF 1 Armatura
+
+*Medio, Lungo*
+
+**Qualità Speciali**: Forma caotica
+
+Scacciato dalla città, un cultista trova rifugio in borghi e villaggi. Scovato anche lì, fugge verso le colline e incide la sua devozione sulle pareti delle caverne. Trovato di nuovo, viene cacciato con coltelli e torce nelle profondità, strisciando sempre più in basso fino a quando, nei luoghi più profondi, si scopre perduto. Dapprima dimentica il suo nome. Poi dimentica la sua forma. I suoi dei del caos, i più amati, lo benedicono donandogliene una nuova. *Istinto*: Minare l'ordine costituito
+
+- Riscrivere la realtà
+- Liberare il caos dalla sua prigione
+
 ## Salamandra
 
 ***Orda, Grande, Intelligente, Organizzato, Planare***
@@ -195,3 +183,16 @@ Lancia fiammeggiante (b\[2d6\]+3 danni) 7 PF 3 Armatura
 
 - Evocare fuoco elementale
 - Sciogliere (letteralmente) le menzogne
+
+## Sventratore grigio
+
+***Solitario, Grande***
+
+Artigli laceranti (d10+3 danni, 3 perforanti) 16 PF 1 Armatura
+
+*Medio, Lungo, Possente*
+
+Già da solo, lo sventratore è una forza di totale distruzione. Enorme e coriaceo, con una fila di denti infrangibili e artigli a complemento, lo sventratore sembra non avere gioia più grande che fare a pezzi le cose. Pietra, carne o acciaio, poco importa. Tuttavia, gli sventratori grigi raramente vanno in giro da soli. Si legano ad altre creature. Alcuni alla nascita, altri quando sono già completamente sviluppati, ma uno sventratore seguirà il padrone a cui si è legato ovunque egli vada, portandogli succulente offerte e proteggendolo mentre dorme. Trovare uno sventratore senza padrone ti farà diventare ricco, se sopravvivi per vendertelo. *Istinto*: Servire
+
+- Fare a pezzi qualcosa
+
