@@ -71,7 +71,8 @@ Sono stati tradotti i seguenti capitoli:
 		<li><a href="mostri-genti">Genti del Reame</a></li>
 		<li><a href="mostri-non-morti">Legioni dei Non Morti</a></li>
 		<li><a href="mostri-orde">Orde Fameliche</a></li>
-		<li><a href="mostri-piani">Esperimenti Perversi</a></li>
+		<li><a href="mostri-piani">Poteri Planari</a></li>
+		<li><a href="mostri-profondita">Profondità della Terra</a></li>
 	</ul>
 </ul>
 
