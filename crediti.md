@@ -8,7 +8,7 @@ Libera traduzione del [lavoro originale](book.dwgazetteer.com) di **[Adam Koebel
 
 **Cura la sezione _Ambientazioni Mostruose_ [Federico Totti][]**
 
-**Traduttori**: [Alex D. Guerrieri][], [Claudio Freda][], [Daniel Schiavo][], [Daniele Frizzi][], [Federico Totti][], [Gabriele Pellegrini][],[Mauro Ghisoni][], [Luca Maiorani][], [Paride Papadia][]
+**Traduttori**: [Alex D. Guerrieri][], [Claudio Freda][], [Daniel Schiavo][], [Daniele Frizzi][], [Federico Totti][], [Gabriele Pellegrini][], [Mauro Ghisoni][], [Luca Maiorani][], [Paride Papadia][], [Paolo Pustorino][]
 
 **Revisori**: [Antonio Amato][], [Claudio Freda][], [Daniel Schiavo][], [Daniele Frizzi][], [Dario Delfino][], [Diego Delfino][], [Federico Totti][], [Giorgia Menozzi][], [Giovanni Vinci][], [Giulio Robecchi][], [Luca Maiorani][], [Mauro Ghisoni][], [Paride Papadia][], [Pawel Longoni][], [Stefano Franzini][].
 
@@ -42,6 +42,7 @@ Tutti i contenuti disponibili su questo sito sono distribuiti con licenza **[Cre
 [Luca Maiorani]: https://plus.google.com/108007955567460306563
 [Mauro Ghisoni]: https://plus.google.com/113536342334278411258
 [Paride Papadia]: https://plus.google.com/100891656436184215243
+[Paolo Pustorino]: https://github.com/stickgrinder
 [Pawel Longoni]: https://plus.google.com/115757078838960100730
 [Stefano Franzini]: https://www.facebook.com/stefano.v.franzini
 [cc]: https://creativecommons.org/licenses/by-sa/4.0/deed.it

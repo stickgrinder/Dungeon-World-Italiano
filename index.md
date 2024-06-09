@@ -83,8 +83,3 @@ Sono stati tradotti i seguenti capitoli:
 [sage]: https://www.latorra.org/
 [fb]: https://www.facebook.com/dungeonworldit/
 [git]: https://github.com/claudiofreda/Dungeon-World-Italiano
-
----
-
-L'intero contenuto di questo sito è coperto da licenza [Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/).  
-Il testo completo della licenza è disponibile [qui](LICENSE.md).
