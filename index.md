@@ -26,12 +26,6 @@ Considero questo sito una risorsa pubblica, e il testo completo è disponibile s
 
 # Indice Generale
 
-La traduzione è **quasi completa**, manca solo un capitolo relativo alle ambientazioni mostruose (Profondità della Terra).
-
-Oltre alle schede delle classi, sono disponibili le schede delle **[mosse base](pdf/mosse.pdf)** e del **[riassunto del gm](pdf/gm.pdf)**, adesso aggiornate alla nostra traduzione!
-
-Sono stati tradotti i seguenti capitoli:
-
 <ul>
 	<li>Parte I,<b> Il Gioco</b></li>
 	<ul>
@@ -60,6 +54,7 @@ Sono stati tradotti i seguenti capitoli:
 		<li><a href="prima-sessione">Prima Sessione</a></li>
         <li><a href="fronti">Fronti</a></li>
         <li><a href="il-mondo">Il Mondo</a></li>
+        <li><a href="tecniche-avanzate">Tecniche Avanzate</a></li>
 	</ul>
     <li>Parte IV, <b>I Mostri</b></li>
 	<ul>
@@ -75,6 +70,8 @@ Sono stati tradotti i seguenti capitoli:
 		<li><a href="mostri-profondita">Profondità della Terra</a></li>
 	</ul>
 </ul>
+
+Oltre alle schede delle classi, sono disponibili le schede delle **[mosse base](pdf/mosse.pdf)** e del **[riassunto del gm](pdf/gm.pdf)**, adesso aggiornate alla nostra traduzione!
 
 **Nota**: alcuni segni di punteggiatura sono ancora da uniformare, come le virgolette. A lavoro finito verranno sistemati in un controllo tipografico generale.
 
